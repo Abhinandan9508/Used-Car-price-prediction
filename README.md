@@ -24,7 +24,7 @@ D:\New folder\
     cd "D:\New folder"
     python -m uvicorn api:app --reload --app-dir ".\src"
 
-2)Launch Streamlit Website
+2) Launch Streamlit Website
   open cmd new terminal or in VS Code (you can launch from anywhere)
   
    cd "D:\New folder"
